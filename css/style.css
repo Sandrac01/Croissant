@@ -1,0 +1,24 @@
+
+h1 {
+    font-size: larger;
+    font-weight: bolder;
+    text-align: center;
+}
+
+
+
+.croissant {
+    max-width: 45%;
+    border-radius: 10px;
+    display: block;
+    margin: 30px auto;
+}
+    
+
+.contact-details {
+    text-align: center;
+    font-size: 18px;
+}
+a {
+    text-align: center;
+}
