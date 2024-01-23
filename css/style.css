@@ -1,6 +1,10 @@
 
+body {
+    background-color: #C9AA8F;
+}
+
 h1 {
-    font-size: larger;
+    font-size: 80;
     font-weight: bolder;
     text-align: center;
 }
@@ -19,6 +23,16 @@ h1 {
     text-align: center;
     font-size: 18px;
 }
-a {
+footer {
     text-align: center;
+    margin-right: 10px;
+    text-decoration: underline;
+    cursor: pointer;
+    color: black;
+}
+p {
+    display: block;
+    text-align: center;
+    line-height: 1.5;
+    font-size: 18px;
 }
