@@ -25,14 +25,33 @@ h1 {
 }
 footer {
     text-align: center;
-    margin-right: 10px;
-    text-decoration: underline;
-    cursor: pointer;
-    color: black;
+    margin: 0 20px;
 }
-p {
-    display: block;
+
+footer {
+    cursor: pointer;
+    text-decoration: none; 
+    color: bisque;   
+}
+
+
+.description {
     text-align: center;
     line-height: 1.5;
     font-size: 18px;
+    
+    
+}
+.link-1 {
+    color: blueviolet;
+    margin: 0 10px;
+}
+.link-2 {
+    color: blueviolet;
+    margin: 0 10px;
+}
+.link-3 {
+    color: blueviolet;
+    margin: 0 10px;
+
 }
